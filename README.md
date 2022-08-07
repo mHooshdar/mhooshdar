@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhooshdar&layout=compact&theme=dracula)](https://github.com/mhooshdar)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhooshdar&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhooshdar&theme=dracula)](https://github.com/mhooshdar)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
