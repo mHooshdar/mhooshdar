@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Mohammd Hooshdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhooshdar&show_icons=true&theme=dracula)](https://github.com/mhooshdar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhooshdar&layout=compact&theme=dracula)](https://github.com/mhooshdar)
+
+![](https://komarev.com/ghpvc/?username=mhooshdar&color=blue)
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
