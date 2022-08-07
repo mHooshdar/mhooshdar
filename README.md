@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhooshdar&layout=compact&theme=dracula)](https://github.com/mhooshdar)
 
-![](https://komarev.com/ghpvc/?username=mhooshdar&color=blue)
-
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
