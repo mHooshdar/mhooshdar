@@ -66,6 +66,7 @@
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
     <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=white" />
     <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=white" />
+    <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
   </p>
   <h5>Bundling</h5>
   <p>
