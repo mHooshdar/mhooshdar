@@ -34,8 +34,7 @@
 - 👯 I’m looking to collaborate on *react, vue projects* and can help you with *website configurations*.
 - 📫 You can reach me at: mohammad.hooshdar@gmail.com
 
-<b>🚀 Languages and Tools</b>
-<br/>
+<h4>🚀 Languages and Tools</h4>
 <p align="left">
   <h5>Languages</h5>
   <p>
@@ -95,9 +94,8 @@
 
 <details>
   <summary>
-    <b>🏆 Github Stats</b>
+    <h4>🏆 Github Stats</h4>
   </summary>
-  <br/>
   <p align="left">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=mhooshdar&theme=dracula" width="45%">
     <img src="https://github-readme-stats.vercel.app/api?username=mhooshdar&show_icons=true&theme=dracula" width="45%">
@@ -107,9 +105,8 @@
 
 <details>
   <summary>
-    <b>🕛 Coding time</b>
+    <h4>🕛 Coding time</h4>
   </summary>
-  <br/>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
