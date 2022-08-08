@@ -34,7 +34,6 @@
 - 👯 I’m looking to collaborate on *react, vue projects* and can help you with *website configurations*.
 - 📫 You can reach me at: mohammad.hooshdar@gmail.com
 
-<h4>🚀 Languages and Tools</h4>
 <p align="left">
   <h5>Languages</h5>
   <p>
