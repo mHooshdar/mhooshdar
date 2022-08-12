@@ -97,8 +97,8 @@
     <h4>🏆 Github Stats</h4>
   </summary>
   <p align="left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mhooshdar&theme=dracula" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api?username=mhooshdar&show_icons=true&theme=dracula" width="45%">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mhooshdar&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=mhooshdar&show_icons=true&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhooshdar&layout=compact&theme=dracula">
   </p>
 </details>
