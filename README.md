@@ -3,25 +3,25 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhooshdar&label=Profile%20views&color=6a44f2&style=flat-square" alt="mhooshdar" />
-  <a href="https://www.linkedin.com/in/mhooshdar/" target="blank">
+  <a href="https://www.linkedin.com/in/mhooshdar/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-mhooshdar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/9226304" target="blank">
+  <a href="https://stackoverflow.com/users/9226304" target="_blank">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/-mhooshdar-E37A28?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/mhooshdar" target="blank">
+  <a href="https://www.hackerrank.com/mhooshdar" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://mhooshdar.dev" target="blank">
+  <a href="https://mhooshdar.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://medium.com/@mhooshdar" target="blank">
+  <a href="https://medium.com/@mhooshdar" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:mohammad.hooshdar@gmail.com" target="blank">
+  <a href="mailto:mohammad.hooshdar@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-<!--   <a href="https://twitter.com/mhooshdar_" target="blank">
+<!--   <a href="https://twitter.com/mhooshdar_" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mhooshdar_?logo=twitter&style=flat-square&color=1a76c7" alt="mhooshdar_" />
   </a> -->
 </p>
