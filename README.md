@@ -10,10 +10,10 @@
     <img alt="Stackoverflow" src="https://img.shields.io/badge/-mhooshdar-E37A28?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://leetcode.com/mhooshdar/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://www.hackerrank.com/mhooshdar" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 />
+    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://mhooshdar.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" />
