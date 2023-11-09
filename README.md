@@ -136,10 +136,11 @@ Sunday                   795 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               31 mins             █████████████████████░░░░   84.78 % 
+Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
