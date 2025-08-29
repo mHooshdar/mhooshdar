@@ -35,7 +35,6 @@
 - 🏫 Want to learn *go, blockchain, solidity*.
 - 👯 I’m looking to collaborate on *react, vue projects* and can help you with *website configurations*.
 - 📫 You can reach me at: mohammad.hooshdar@gmail.com
--->
 
 <p align="left">
   <h5>Languages</h5>
@@ -157,6 +156,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
-
+-->
 <b align="left">🧉 Support</b>
 <p><a href="https://www.buymeacoffee.com/mhooshdar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="mhooshdar" /></a></p>
