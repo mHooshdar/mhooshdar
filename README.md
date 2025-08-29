@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Mohammad Hooshdar</h1>
-<h3 align="center">A hardworking senior frontend developer from Iran</h3>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Mohammad</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhooshdar&label=Profile%20views&color=6a44f2&style=flat-square" alt="mhooshdar" />
@@ -29,13 +28,14 @@
   </a> -->
 </p>
 
-- 👨‍💻 My website is [mhooshdar.dev](https://mhooshdar.dev)
+<!-- - 👨‍💻 My website is [mhooshdar.dev](https://mhooshdar.dev)
 - 💬 Ask me about *react, vue and other frontend technologies*
 - 🔭 I’m currently working on Web Based Projects in *vue and react*.
 - 🌱 I’m currently learning *frontend technologies*.
 - 🏫 Want to learn *go, blockchain, solidity*.
 - 👯 I’m looking to collaborate on *react, vue projects* and can help you with *website configurations*.
 - 📫 You can reach me at: mohammad.hooshdar@gmail.com
+-->
 
 <p align="left">
   <h5>Languages</h5>
