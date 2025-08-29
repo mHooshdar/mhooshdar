@@ -109,6 +109,7 @@
   <summary>
     <h4>🕛 Coding time</h4>
   </summary>
+-->
   <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -156,6 +157,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
--->
 <b align="left">🧉 Support</b>
 <p><a href="https://www.buymeacoffee.com/mhooshdar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="mhooshdar" /></a></p>
